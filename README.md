@@ -12,4 +12,7 @@
 :arrow_upper_right: About Web stack (Operating System - Programming Language - Database Software - Web Server). You can dig more from here.         
 
 4. https://github.com/kamranahmedse/developer-roadmap      
-:arrow_upper_right: Roadmap to becoming a web developer in 2019. Thanks Cathy's sharing. There is a sea out there to explore then make a plan for 2019. 
+:arrow_upper_right: Roadmap to becoming a web developer in 2019. Thanks for Cathy's sharing. There is a sea out there to explore then make a plan for 2019.      
+
+5. https://explainshell.com/        
+:arrow_upper_right: Match command-line arguments to their help text. Thanks for Rich's sharing.   
