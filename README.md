@@ -24,4 +24,8 @@
 :arrow_upper_right: Match command-line arguments to their help text. Thanks for Rich's sharing.        
 
 8. https://en.wikipedia.org/wiki/Drupal      
-:arrow_upper_right: What is Drupal? 
+:arrow_upper_right: What is Drupal?       
+   https://en.wikipedia.org/wiki/Pantheon_(software)       
+:arrow_upper_right: What is Pantheon?   
+   https://en.wikipedia.org/wiki/Acquia    
+:arrow_upper_right: What is Acquia?    
