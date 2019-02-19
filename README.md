@@ -21,4 +21,7 @@
 :arrow_upper_right: Free Downloadable Resume Templates. There are always arguments between creating your own or using resume template. I won't judge here.  
 
 7. https://explainshell.com/        
-:arrow_upper_right: Match command-line arguments to their help text. Thanks for Rich's sharing.   
+:arrow_upper_right: Match command-line arguments to their help text. Thanks for Rich's sharing.        
+
+8. https://en.wikipedia.org/wiki/Drupal      
+:arrow_upper_right: What is Drupal? 
