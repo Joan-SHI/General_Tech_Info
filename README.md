@@ -29,3 +29,6 @@
 :arrow_upper_right: What is Pantheon?   
    https://en.wikipedia.org/wiki/Acquia    
 :arrow_upper_right: What is Acquia?    
+
+9. https://www.quora.com/What-are-the-different-types-of-web-browser-How-do-they-differ-from-each-other   
+:arrow_upper_right: About web browser types and their personalities.    
