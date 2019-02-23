@@ -33,7 +33,7 @@
 9. https://www.quora.com/What-are-the-different-types-of-web-browser-How-do-they-differ-from-each-other   
 :arrow_upper_right: About web browser types and their personalities.       
 
-10. Part of info from SQLSaturday, 2019, Wellington
+10. Part of info from SQLSaturday, 2019, Wellington      
     https://searchsqlserver.techtarget.com/definition/SQL-Operations-Studio    
 :arrow_upper_right: About Azure Data Studio (formerly SQL Operations Studio)    
     https://searchsqlserver.techtarget.com/definition/Microsoft-SQL-Server-Management-Studio-SSMS    
