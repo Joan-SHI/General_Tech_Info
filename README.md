@@ -31,4 +31,9 @@
 :arrow_upper_right: What is Acquia?    
 
 9. https://www.quora.com/What-are-the-different-types-of-web-browser-How-do-they-differ-from-each-other   
-:arrow_upper_right: About web browser types and their personalities.    
+:arrow_upper_right: About web browser types and their personalities.       
+
+10. https://searchsqlserver.techtarget.com/definition/SQL-Operations-Studio    
+:arrow_upper_right: Azure Data Studio (formerly SQL Operations Studio)    
+    https://searchsqlserver.techtarget.com/definition/Microsoft-SQL-Server-Management-Studio-SSMS    
+:arrow_upper_right: Microsoft SQL Server Management Studio (SSMS)    
