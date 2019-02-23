@@ -33,7 +33,12 @@
 9. https://www.quora.com/What-are-the-different-types-of-web-browser-How-do-they-differ-from-each-other   
 :arrow_upper_right: About web browser types and their personalities.       
 
-10. https://searchsqlserver.techtarget.com/definition/SQL-Operations-Studio    
-:arrow_upper_right: Azure Data Studio (formerly SQL Operations Studio)    
+10. Part of info from SQLSaturday, 2019, Wellington
+    https://searchsqlserver.techtarget.com/definition/SQL-Operations-Studio    
+:arrow_upper_right: About Azure Data Studio (formerly SQL Operations Studio)    
     https://searchsqlserver.techtarget.com/definition/Microsoft-SQL-Server-Management-Studio-SSMS    
-:arrow_upper_right: Microsoft SQL Server Management Studio (SSMS)    
+:arrow_upper_right: About Microsoft SQL Server Management Studio (SSMS)    
+    https://martinfowler.com/articles/practical-test-pyramid.html     
+:arrow_upper_right: About Test Pyramid. Good article, Blog is non-responsive though.   
+    https://searchsqlserver.techtarget.com/news/252452421/Enterprise-Power-BI-platform-advances-with-SSRS-dataflows   
+:arrow_upper_right: About Power BI.  
