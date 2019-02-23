@@ -41,4 +41,7 @@
     https://martinfowler.com/articles/practical-test-pyramid.html     
 :arrow_upper_right: About Test Pyramid. Good article, Blog is non-responsive though.   
     https://searchsqlserver.techtarget.com/news/252452421/Enterprise-Power-BI-platform-advances-with-SSRS-dataflows   
-:arrow_upper_right: About Power BI.  
+:arrow_upper_right: About Power BI.     
+
+11. https://javascript.info/    
+:arrow_upper_right: Feeling myself like an ant to collect food(info) for winter(learning). The more I learn, the less I know.    
