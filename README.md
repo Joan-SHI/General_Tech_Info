@@ -44,4 +44,12 @@
 :arrow_upper_right: About Power BI.     
 
 11. https://javascript.info/    
-:arrow_upper_right: Feeling myself like an ant to collect food(info) for winter(learning). The more I learn, the less I know.    
+:arrow_upper_right: Feeling myself like an ant to collect food(info) for winter(learning). The more I learn, the less I know.      
+
+12. https://d3js.org/      
+https://github.com/dagrejs/dagre-d3/blob/master/demo/graph-story-board.html     
+https://github.com/dagrejs/dagre-d3       
+https://github.com/dagrejs/dagre-d3/blob/master/demo/interactive-demo.html    
+https://blog.sicara.com/a-starting-point-on-using-d3-with-react-869fdf3dfaf    
+https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71     
+:arrow_upper_right: Sth related to d3 that I would like to explore in the following couple of days.     
