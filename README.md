@@ -55,4 +55,4 @@ https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3e
 :arrow_upper_right: Sth related to d3 that I would like to explore in the following couple of days.        
 
 13. https://en.wikipedia.org/wiki/Django_(web_framework)    
-:arrow_upper_right: Good for bedtime stoty:)       
+:arrow_upper_right: Good for your bedtime story:)       
