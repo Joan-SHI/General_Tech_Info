@@ -18,7 +18,7 @@
 :arrow_upper_right:  A curated list of amazingly awesome New Zealand tech resources. Thanks for Cathy's sharing. Summer Of Tech (SOT)? AgTech Hackathon?     
 
 6. https://resumegenius.com/resume-templates  
-:arrow_upper_right: Free Downloadable Resume Templates. There are always arguments between creating your own or using resume template. I won't judge here.  
+:arrow_upper_right: Free Downloadable Resume Templates. There are always arguments between creating your own or using resume template. I won't judge here. Thanks for Phoenix's sharing on Slack. 
 
 7. https://explainshell.com/        
 :arrow_upper_right: Match command-line arguments to their help text. Thanks for Rich's sharing.        
