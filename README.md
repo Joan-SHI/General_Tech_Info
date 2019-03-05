@@ -44,7 +44,7 @@
 :arrow_upper_right: About Power BI.     
 
 11. https://javascript.info/    
-:arrow_upper_right: Feeling myself like an ant to collect food(info) for winter(learning). The more I learn, the less I know.      
+:arrow_upper_right: Feeling myself like an ant to collect food(info) for winter(learning). The more I learn, the less I know. Thanks for Rich's sharing.       
 
 12. https://d3js.org/      
 https://github.com/dagrejs/dagre-d3/blob/master/demo/graph-story-board.html     
@@ -55,4 +55,9 @@ https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3e
 :arrow_upper_right: Sth related to d3 that I would like to explore in the following couple of days.        
 
 13. https://en.wikipedia.org/wiki/Django_(web_framework)    
-:arrow_upper_right: Good for your bedtime story:)       
+:arrow_upper_right: Good for your bedtime story:)         
+
+14. https://syntax.fm/    
+    https://irlpodcast.org/   
+:arrow_upper_right: About Podcast. Thanks for Luke and Don sharing on Slack.
+      
