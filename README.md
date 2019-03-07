@@ -18,7 +18,7 @@
 :arrow_upper_right:  A curated list of amazingly awesome New Zealand tech resources. Thanks for Cathy's sharing. Summer Of Tech (SOT)? AgTech Hackathon?     
 
 6. https://resumegenius.com/resume-templates  
-:arrow_upper_right: Free Downloadable Resume Templates. There are always arguments between creating your own or using resume template. I won't judge here. Thanks for Phoenix's sharing on Slack. 
+:arrow_upper_right: Free Downloadable Resume Templates. There are always arguments between creating your own or using resume template. I won't judge here. Thanks for Phoenix's sharing on Slack.      
 
 7. https://explainshell.com/        
 :arrow_upper_right: Match command-line arguments to their help text. Thanks for Rich's sharing.        
@@ -59,5 +59,8 @@ https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3e
 
 14. https://syntax.fm/    
     https://irlpodcast.org/   
-:arrow_upper_right: About Podcast. Thanks for Luke and Don sharing on Slack.
+:arrow_upper_right: About Podcast. Thanks for Luke and Don sharing on Slack.   
+
+15. https://jekyllrb.com/   
+:arrow_upper_right: A static site generator to build a simple portfolio. Thanks for Laura's sharing.   
       
