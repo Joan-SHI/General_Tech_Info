@@ -62,5 +62,8 @@ https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3e
 :arrow_upper_right: About Podcast. Thanks for Luke and Don sharing on Slack.   
 
 15. https://jekyllrb.com/   
-:arrow_upper_right: A static site generator to build a simple portfolio. Thanks for Laura's sharing.   
+:arrow_upper_right: A static site generator to build a simple portfolio. Thanks for Laura's sharing.     
+
+16. https://24ways.org/2017/levelling-up-for-junior-developers/    
+:arrow_upper_right: Very useful tips. Thanks for Phoenix's sharing.     
       
